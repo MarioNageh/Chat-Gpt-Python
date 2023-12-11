@@ -34,7 +34,11 @@ Welcome to the OpenAI Chatbot project! This simple console-based chatbot uses Op
     OPENAI_API_KEY=your-api-key
     OPENAI_API_MODEL=MODEL_NAME
     ```
-   
+
+6. Run the program:
+    ```bash
+   python main.py
+   ```
 ## Usage
 See Pictures in the folder "Pictures" for examples of the chatbot in action.
 
